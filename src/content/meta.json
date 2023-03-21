@@ -1,11 +1,8 @@
 {
-    "name": "Tong Zhu (朱桐)",
-    "description": "I'm a Ph.D. student at Soochow University, advised by [Wenliang Chen](https://chen-wenliang.github.io/). I received my B.S. degree from Guizhou University.<br>My current research interests include Information Extraction and Knowledge Acquisition.",
+    "name": "Yande Chen (陈衍德)",
+    "description": "After receiving my B.S. degree from Tsinghua University, I'm now pursuing a Ph.D. degree at Tsinghua University, advised by [Dr. Yuan He](http://www.greenorbs.org/people/heyuan/). My research currently focuses on material sensing models, techniques and applications.",
     "contact": {
-        "Github": {"icon": "fa fa-github", "url": "https://github.com/Spico197"},
-        "Google Scholar": {"icon": "ai ai-google-scholar", "url": "https://scholar.google.com/citations?user=V1gIjasAAAAJ&hl=en"},
-        "Semantic Scholar": {"icon": "ai ai-semantic-scholar", "url": "https://www.semanticscholar.org/author/Tong-Zhu/1914586128"},
-        "Website": {"icon": "fa fa-link", "url": "https://spico197.github.io/"},
-        "Email": {"icon": "fa fa-envelope", "url": "mailto:tzhu1997@outlook.com"}
+        "Github": {"icon": "fa fa-github", "url": "https://github.com/chen-yd18"},
+        "Email": {"icon": "fa fa-envelope", "url": "mailto:yande-thu18@yandex.com"}
     }
 }

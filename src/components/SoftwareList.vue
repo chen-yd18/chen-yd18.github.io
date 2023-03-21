@@ -14,8 +14,10 @@ const idPrefix = "software"
 </script>
 
 <template>
+<!--
   <h2>🕹️ Selected Softwares</h2>
   <p>Know me through my code 👀.</p>
+-->
   <div v-for="(softwareList, listIdx) in softwareArr" :key="listIdx">
     <h3>{{ softwareList.category }}</h3>
     <div class="row items-align-top" v-for="(software, index) in softwareList.list" :key="index">

@@ -29,12 +29,9 @@ import TalkList from './components/TalkList.vue'
     <hr>
     <p>
       Links:
-      <a href="https://chen-wenliang.github.io/" target="_blank">Wenliang Chen</a>
-      | <a href="https://jacob-zhou.github.io/" target="_blank">Houquan Zhou</a>
-      | <a href="https://yzhangcs.github.io/" target="_blank">Yu Zhang</a>
-    </p>
-    <p>
-      Made by Tong Zhu w/ ❤️
+      <a href="https://www.tsinghua.edu.cn/" target="_blank">Tsinghua University</a>
+      | <a href="http://tns.thss.tsinghua.edu.cn/sun/" target="_blank">The System and Ubiquitous Networking Group (SUN)</a>
+      | <a href="http://www.greenorbs.org/people/heyuan/" target="_blank">Dr. Yuan He</a>
     </p>
   </footer>
 </template>

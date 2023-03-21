@@ -110,6 +110,7 @@ function copyToClipboard(text, pubId, cslTemplateType) {
     <sup>*</sup>: corresponding author(s).
     <u>underline</u>: equal contributions.
   </p>
+  <p> I'm working hard towards my first publication! </p>
   <ul class="pub-list" reversed>
     <li v-for="pub in pubArr" :key="pub.entry.id">
       <a :href="pub.entry.URL" target="_blank">{{ pub.entry.title }}</a><br>
